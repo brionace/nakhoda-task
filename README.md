@@ -1,3 +1,3 @@
 # nakhoda-task
 
-Just download and run index.html
+Just download and run
